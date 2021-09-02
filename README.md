@@ -1,0 +1,2 @@
+# license_generator
+基于aes算法和base64算法加密的license生成工具，当然license形式可以根据情况修改
